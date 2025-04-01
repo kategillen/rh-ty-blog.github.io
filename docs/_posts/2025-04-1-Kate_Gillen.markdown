@@ -23,19 +23,16 @@ categories: jekyll update
 ---
 ** Blog details for Monday **.
 
-On Monday at 10 AM, I started my Transition Year (TY) work placement along with eight other students. The day was structured to help us settle in, get to know each other, and learn about the company.
+My first day at Red Hat was a great start to the week! I arrived at 10 AM and met the eight other TY students on placement. We kicked off with icebreakers like "Two Truths and a Lie" and "20 Questions," definitely a fun way to break the ice!
 
-We began the day with icebreaker activities. These helped us become more comfortable with each other and made it easier to communicate as a group the activities included 20 questions and 2 truths and 1 lie
-Office Tour
+Next, we toured the office, getting a feel for the workspace before diving into a session on Red Hat’s history. It was fascinating to learn how the company evolved and its impact on open-source technology.
 
-After the icebreakers, we were given a tour of the office. This helped us understand the layout of the workplace and where different teams worked.
+After lunch, we had an insightful talk on Agile and Scrum, followed by a hands-on activity using Mr. Potato Heads. Split into teams, we worked under a product owner’s guidance to design themed potato head characters—an interactive and entertaining way to grasp Agile concepts.
 
-Then we had the Agile talk and we compleated the activity afterwards using poatoe heads. I was in group C and we had to make marvel theamed potatoe heads.
-
-Lastly we tried signing into our computours but unfourtionatly the wifi wouldn't connect to my computer :[
+We wrapped up by setting up our laptops, getting ready for the days ahead. Overall, the day was engaging and enjoyable, and I’m really looking forward to what’s next!
 
 ---
-
+![logo](https://th.bing.com/th/id/OIP.RAsG_pf_XE0VXXBDRIPsnwAAAA?rs=1&pid=ImgDetMain)
 ![logo](https://www.exclusive-networks.com/bg/wp-content/uploads/sites/45/2021/09/red-hat-Logo.png)
 ---
 
